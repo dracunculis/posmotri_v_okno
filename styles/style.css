@@ -118,10 +118,6 @@ ol {
   min-height: 103px;
 }
 
-.preloader {
-  position: absolute;
-}
-
 .search-form__fieldset-title {
   font-weight: 400;
   font-size: 18px;
@@ -243,8 +239,8 @@ ol {
   font-size: 18px;
   font-style: normal;
   line-height: normal;
-  appearance: none;
   letter-spacing: -0.008em;
+  appearance: none;
 }
 
 .search-form__textfield {
