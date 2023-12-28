@@ -249,6 +249,7 @@ ol {
   border-bottom: solid #fff 1px;
   padding-top: 4px;
   color: #fff;
+  font-family: inherit;
   line-height: 20px;
   background-color: transparent;
 }
@@ -334,6 +335,6 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
 
 .button:focus-visible {
   outline: 1px solid #fff;
-  outline-offset: -3px;
+  outline-offset: -4px;
 }
 /* состояния кнопок*/
